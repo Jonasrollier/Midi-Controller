@@ -3,7 +3,6 @@
 Firmware-project voor een MIDI controller op basis van een **STM32** (STM32CubeMX / STM32CubeIDE projectstructuur).  
 Dit project bevat de volledige firmware, drivers en middleware (o.a. USB via TinyUSB) om een MIDI-device te kunnen bouwen.
 
-> Status: work in progress / hobbyproject
 
 ---
 
