@@ -1,0 +1,4 @@
+../Core/Middlewares/TinyUSB/src/portable/st/stm32_fsdev/fsdev_common.c:39:6:fsdev_core_reset	16	static,ignoring_inline_asm
+../Core/Middlewares/TinyUSB/src/portable/st/stm32_fsdev/fsdev_common.c:58:6:fsdev_deinit	16	static,ignoring_inline_asm
+../Core/Middlewares/TinyUSB/src/portable/st/stm32_fsdev/fsdev_common.c:77:10:pma_align_buffer_size	48	static
+../Core/Middlewares/TinyUSB/src/portable/st/stm32_fsdev/fsdev_common.c:95:6:btable_set_rx_bufsize	32	static
